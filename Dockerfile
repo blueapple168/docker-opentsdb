@@ -1,4 +1,5 @@
-FROM openjdk:8u212-jre
+ARG JDK_VERSION=8-jdk-buster
+FROM openjdk:$JDK_VERSION
 
 RUN useradd opentsdb && \
     apt-get update && \
