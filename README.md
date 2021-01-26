@@ -107,7 +107,3 @@ with dedicated `opentsdb` user.
 
 This image is also [zoidberg](https://github.com/bobrik/zoidberg) and
 [zoidberg-nginx](https://github.com/bobrik/zoidberg-nginx) friendly.
-
-## License
-
-[MIT](LICENSE)
